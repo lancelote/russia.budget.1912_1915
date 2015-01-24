@@ -1,0 +1,11 @@
+# R misc #
+##########
+/.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+
+# Data #
+########
+/data
+.Rproj.user
